@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487826652836",
+    "firebase_url": "https://gestionabs-70360.firebaseio.com",
+    "project_id": "gestionabs-70360",
+    "storage_bucket": "gestionabs-70360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487826652836:android:2d35495e00a43b3f043031",
+        "android_client_info": {
+          "package_name": "com.example.gestionabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487826652836-c71icfu2c5hkus38eipjdf34quuk1ig1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestionabs",
+            "certificate_hash": "9be4b2f70831aeaa8e2fa578375989ee23561baf"
+          }
+        },
+        {
+          "client_id": "487826652836-t00ta889v11m5cmg0qo93d5d9frupllk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nKs-Zrq5B2xCCetR3mwCdsqAQ1BFHAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487826652836-t00ta889v11m5cmg0qo93d5d9frupllk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
